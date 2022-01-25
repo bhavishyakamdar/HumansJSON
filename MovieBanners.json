@@ -1,12 +1,10 @@
 [ {
-  "by" : "Action",
   "image" : "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/64a3e1440105c709cfdf0de57e9c1a6c580382c5332cfd4371b8f7b1192df16d._V_SX1080_.jpg",
   "liked" : "88% Liked This",
   "name" : "John Wick",
   "type" : "Action/Crime",
   "id" : "0"
 }, {
-  "by" : "Horror",
   "image" : "https://i0.wp.com/thespool.net/wp-content/uploads/2018/09/The-Nun-1.jpg?fit=1024%2C535&ssl=1",
   "liked" : "94% Liked This",
   "name" : "The Nun",
