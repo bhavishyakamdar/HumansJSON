@@ -2,10 +2,14 @@
     "image" : "https://res.cloudinary.com/dhthqzayy/image/upload/v1643181965/originalimages/episodes/sadrakshanay/sadrakshanay_dngpfd.jpg",
     "link" : "654843683",
     "name" : "Episode 1",
+    "id" : "1",
+    "des" : "The First Warrior",
     "srt" : "https://firebasestorage.googleapis.com/v0/b/eor-tv.appspot.com/o/Game%20Of%20Sexes%2FGOTS%20EP%201%20ENGLISH.srt?alt=media&token=41b787e6-41d7-45a4-b3b8-7271902809f2"
   }, {
     "image" : "https://res.cloudinary.com/dhthqzayy/image/upload/v1643181965/originalimages/episodes/sadrakshanay/sadrakshanay_dngpfd.jpg",
     "link" : "654898600",
     "name" : "Episode 2",
+    "id" : "2",
+    "des" : "The Second Warrior",
     "srt" : "https://firebasestorage.googleapis.com/v0/b/eor-tv.appspot.com/o/Game%20Of%20Sexes%2FGOTS%20EP%202%20ENGLISH.srt?alt=media&token=3fb35a9c-8f4b-45d3-a3d0-870fb22a80b7"
   }]
